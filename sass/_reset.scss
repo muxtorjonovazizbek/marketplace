@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: work_sans;
+}
+
+@font-face {
+    font-family: work_sans;
+    src: url(../Work_Sans/static/WorkSans-Medium.ttf);
+
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #2B2B2B;
+}
